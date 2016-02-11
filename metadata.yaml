@@ -1,0 +1,34 @@
+_repo: Kavaluus-ja-rakkaus-Murhenaytelma-viidessa-naytoksessa_49552
+contributor:
+  translator:
+    agent_name: Ahlqvist, August
+    alias: Oksanen, A.
+    birthdate: 1826
+    deathdate: 1889
+    gutenberg_agent_id: '25127'
+    url: http://www.gutenberg.org/2009/agents/25127
+    wikipedia: http://fi.wikipedia.org/wiki/August_Ahlqvist
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Friedrich von
+    - Schiller, Johann Christoph Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: ''
+gutenberg_issued: '2015-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49552'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Kavaluus ja rakkaus
+
+  Murhenäytelmä viidessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/49552
